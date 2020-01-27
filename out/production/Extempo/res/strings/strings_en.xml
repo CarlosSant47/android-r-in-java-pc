@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="inputInt">Please enter a numeric value</string>
+    <string name="welcomeMeg">Welcome to the installer of Mods of Spanrtan Server uwu</string>
+    <string-array name="menuItems">
+        <item>1 - Install Mods</item>
+        <item>2 - Update Mods</item>
+        <item>3 - Install Impact</item>
+        <item>4 - Salir</item>
+    </string-array>
+    <string name="selectedOption">Select an option</string>
+
+    <integer name="frameRate">60</integer>
+</resources>

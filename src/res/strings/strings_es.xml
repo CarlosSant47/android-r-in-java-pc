@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="inputInt">Por Favor Introzca un valor Numerico</string>
+    <string name="welcomeMeg">Bienvenido al instalador de Mods de Spanrtan Server uwu</string>
+    <string-array name="menuItems">
+        <item>1 - Instalar Mods</item>
+        <item>2 - Actualizar Mods</item>
+        <item>3 - Instalar Impact</item>
+        <item>4 - Salir</item>
+    </string-array>
+    <string-array name="launchersList">
+        <item>Original Launcher (Premium)</item>
+        <item>Launcher Fenix (Premium y no Premium)</item>
+    </string-array>
+    <string name="selectedOption">Seleccione una opcion</string>
+    <integer name="frameRate">60</integer>
+</resources>
